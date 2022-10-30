@@ -9,5 +9,9 @@
 <body>
     <h1>Coba coba</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime necessitatibus consectetur, molestiae fugiat ducimus animi nisi et eveniet aut eum quas soluta blanditiis. Assumenda voluptatum necessitatibus neque. Molestias, hic earum?</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
